@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'export',
   distDir: 'export',
-  basePath: '/cf-reconciliation',
+  basePath: '/apps/cf-reconciliation',
   images: {
     unoptimized: true,
   },
